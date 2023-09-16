@@ -27,5 +27,7 @@
 
 
 ### 
-- After running `npx cypress run --reporter mochawesome` mochawesome-report folder will be created at the root directory contains html reports for every spec & cypress\screenshots folder contains screenshots for failed scripts. 
+- After running `npx cypress run --reporter mochawesome` mochawesome-report folder will be created at the root directory contains html reports for every spec & cypress\screenshots folder contains screenshots for failed scripts.
+
+- Both URLs used are in cypress.config.ts 
 
